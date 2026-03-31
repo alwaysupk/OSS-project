@@ -213,4 +213,4 @@ Git itself is licensed under the **GNU General Public License v2 (GPL v2)**.
 ---
 
 ## Acknowledgment
-I would like to acknowledge the open-source community and the developers of Git for creating and maintaining tools that support collaboration, transparency, and innovation in software development.
+I would like to acknowledge the open-source community and the developers of Git for creating and maintaining tools that support collaboration, transparency, and innovation in software development and Vityarthi for providing me a chance to learn all this.
