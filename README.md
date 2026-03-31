@@ -205,6 +205,13 @@ This project helped me explore **Git** as a major open-source software project a
 
 ---
 
+## Screenshots
+
+![image1](screenshots/image1.png)
+![image2](screenshots/image2.png)
+![image3](screenshots/image3.png)
+
+
 ## License
 This repository is created for academic purposes as part of the Open Source Software course.
 Git itself is licensed under the **GNU General Public License v2 (GPL v2)**.
